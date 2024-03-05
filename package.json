@@ -1,0 +1,23 @@
+{
+  "name": "paramt1",
+  "version": "1.0.0",
+  "description": "codtir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lutfanidev/paramt1.git"
+  },
+  "dependencies": {
+    "mypjtt1": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lutfanidev/paramt1/issues"
+  },
+  "homepage": "https://github.com/lutfanidev/paramt1#readme"
+}
